@@ -1,6 +1,6 @@
 ## Estudiante de ingenieria en ciencias y sistemas USAC
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseTg1904&show_icons=true&theme=cobalt)
+<img align="left" alt="esnorki2008's Github Stats" src="https://github-readme-stats-liart-seven.vercel.app/api?username=JoseTg1904&show_icos=true&hide_border=true&theme=cobalt"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseTg1904&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
