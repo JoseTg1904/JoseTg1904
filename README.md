@@ -1,11 +1,8 @@
-### José Carlos I Alonzo
 ## Estudiante de ingenieria en ciencias y sistemas USAC
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseTg1904&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseTg1904)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseTg1904&theme=cobalt&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JoseTg1904)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JoseTg1904/JoseTg1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
