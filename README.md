@@ -2,7 +2,7 @@
 
 <img align="left" alt="esnorki2008's Github Stats" src="https://github-readme-stats-liart-seven.vercel.app/api?username=JoseTg1904&show_icos=true&hide_border=true&theme=cobalt"/>
 
-[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseTg1904&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseTg1904&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21kdjg7gd3rbxjoa2ethbowji&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
