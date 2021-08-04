@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats-liart-seven.vercel.app/api/top-langs/?username=JoseTg1904&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21kdjg7gd3rbxjoa2ethbowji&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 <!--
 **JoseTg1904/JoseTg1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
